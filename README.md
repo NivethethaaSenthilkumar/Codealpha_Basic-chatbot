@@ -20,8 +20,9 @@ Installed necessary libraries: pip install nltk
 
 Imported required modules:
 
-import nltk
-import re
+# import nltk
+
+# import re
 
 2.Text Preprocessing:
 
