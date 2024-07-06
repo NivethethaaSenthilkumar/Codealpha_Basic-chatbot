@@ -15,8 +15,11 @@ Basic Error Handling: The chatbot can manage unrecognized inputs by providing de
 
 # Implementation Details
 1.Setting Up the Environment:
+
 Installed necessary libraries: pip install nltk
+
 Imported required modules:
+
 import nltk
 import re
 
